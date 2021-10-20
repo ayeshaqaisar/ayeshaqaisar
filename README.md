@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayesha Qaisar</h1>
-<h3 align="center">A sophomore at National Institute of Technology Patna pursuing B. Tech in Computer Science and Engineering. I am an experienced developer skilled in Web Development using MERN stack. I also enjoy competitive programming which helps me in enhancing my Problem Solving skills.</h3>
+<h3 align="center">A third-year student at National Institute of Technology Patna pursuing B. Tech in Computer Science and Engineering. I am an experienced developer skilled in Web Development (using MERN stack) and Android Development. I also enjoy solving algorithmic problems which helps me in enhancing my Problem Solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaqaisar&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaqaisar" /> </p>
 
