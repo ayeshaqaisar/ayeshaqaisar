@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayesha Qaisar</h1>
-<p align="center">Enthusiastic  Full Stack Developer currently in  third-year  at National Institute of Technology Patna pursuing B. Tech in Computer Science and Engineering. I am an experienced developer skilled in Web Development (using MERN stack) and Android Development. I also enjoy solving algorithmic problems which helps me in enhancing my Problem Solving skills.</p>
+<p align="center">
+  Software engineer with experience delivering production features across Salesforce, Amazon, and Hexaware,
+and building AI-driven applications end to end. Skilled in API development, LLM/RAG workflows, offline
+data-processing pipelines, and designing reliable application logic. Proven full-stack ownership through
+SmartBookHub, an AI-driven platform with ingestion pipelines, vector search, persona agents, and system-level
+architecture across the stack
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaqaisar&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaqaisar" /> </p>
 
